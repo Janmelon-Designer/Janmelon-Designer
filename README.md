@@ -20,5 +20,6 @@
 <div> 
   <a href="https://www.youtube.com/@Janmelon" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/janmelon_art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/janmelon" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=blue" target="_blank"></a> 
+ <a href="https://www.twitch.tv/janmelon" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=blue" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/janaina-panhis-almeida-878b92325/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%236385B6?style=for-the-badge"></a> 
 </div>
